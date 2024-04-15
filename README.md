@@ -16,3 +16,6 @@ Evaluation of sleep quality and duration
 Tracking of weight management progress over time
 ## Conclusion
 The analysis provides valuable insights into users' fitness habits and behaviors, empowering them to make informed decisions to improve their overall health and wellness.
+
+
+[Exploring The Bellabeat Fitness Data: Insights and Analysis](https://medium.com/@marischukwuma/exploring-the-bellabeat-fitness-data-insights-and-analysis-19f79338199d)
